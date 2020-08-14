@@ -14,5 +14,5 @@ Currently learning: <img src="https://i.ibb.co/sF333Pt/vue.png" width="20" /> <b
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=natansouzaa&show_icons=true" width="430px" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=natansouzaa&show_icons=true" width="400px" height="200px" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natansouzaa&layout=compact" width="400px" height="200px" />
